@@ -1,7 +1,7 @@
 # main links
 main:
-  #- title: "Movies"
-  #  url: "./movies.html"
+  - title: "bachelor's thesis"
+    url: "./pdfs/bachelor_thesis.pdf"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
