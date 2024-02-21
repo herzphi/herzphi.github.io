@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-DE"
-title                    : "Philipp"
+title                    : "Personal website"
 title_separator          : "~"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Philipp Herz"
@@ -108,7 +108,6 @@ author:
   avatar           : "/assets/images/88x88.png"
   bio              : "MSc Physics"
   location         : "Munich"
-  email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

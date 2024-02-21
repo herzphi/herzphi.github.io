@@ -1,9 +1,9 @@
 ---
-title:  "Testing the posting feature"
+title:  "Distinguishing exoplanet companions from field stars in direct imaging using Gaia astrometry"
 search: true
 categories: 
   - techniques
-last_modified_at: 2022-02-18T20:40:00-05:00
+last_modified_at: 2024-02-20T20:40:00-05:00
 ---
 
-Testing this will help to understand Jekyll.
+Published paper based on my Master thesis: https://doi.org/10.1051/0004-6361/202348496
