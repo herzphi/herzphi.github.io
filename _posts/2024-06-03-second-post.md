@@ -4,6 +4,7 @@ search: true
 categories: 
   - Open Access
 last_modified_at: 2024-06-03T06:36:00-05:00
+use_math: true
 ---
 
 The code to the following instructions can be found here: [GitHub](https://github.com/herzphi/QuantumAnnealing01).
@@ -15,7 +16,7 @@ Recently, I came across quantum annealing, which is a super smart way in utilizi
 describes a double well potential with the form 
 
 
-$V(x)=x^4-10x^2$
+$$V(x)=x^4-10x^2$$
 
 for which we try to find the ground state. We already know the ground states and only want to demonstrate a possible process.
 
