@@ -13,7 +13,9 @@ The code to the following instructions can be found here: [GitHub](https://githu
 Recently, I came across quantum annealing, which is a super smart way in utilizing principles of quantum mechanics to solve time intensive analytical problems in a shorter time frame. The script
 *ex1_OneDimQuantAnnealing.py*
 describes a double well potential with the form 
+
 $$V(x)=x^4-10x^2$$
+
 for which we try to find the ground state. We already know the ground states and only want to demonstrate a possible process.
 
 ## Steps to Implement Quantum Annealing
