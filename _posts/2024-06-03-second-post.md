@@ -14,7 +14,8 @@ Recently, I came across quantum annealing, which is a super smart way in utilizi
 *ex1_OneDimQuantAnnealing.py*
 describes a double well potential with the form 
 
-\[V(x)=x^4-10x^2\]
+
+$V(x)=x^4-10x^2$
 
 for which we try to find the ground state. We already know the ground states and only want to demonstrate a possible process.
 
