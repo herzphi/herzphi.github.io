@@ -1,11 +1,13 @@
 ---
-title:  "Qunantum Annealing"
+title:  "Quantum Annealing"
 search: true
 categories: 
   - Open Access
 last_modified_at: 2024-06-03T06:36:00-05:00
 use_math: true
 ---
+
+![Missing animation](/assets/images/quantum_annealing.gif)
 
 The code to the following instructions can be found here: [GitHub](https://github.com/herzphi/QuantumAnnealing01).
 
@@ -59,5 +61,3 @@ We'll use the Crank-Nicolson method to solve the TDSE numerically.
 The double-well-potential given by $V(x)$ can be seen in orange. the minima can easily calculated to be $x_1=\pm \sqrt{5}$. The probability density $\mid \psi \mid^2$ of the time dependent wave function $\psi(t, x)$ after $1000$ iterations becomes the blue line with the maxima at the minima of the potential. In this case the probability density approaches the ground states of the wave function given the potential $V(x)$.
 
 ![Missing plot](/assets/images/onedim.png)
-
-![Missing animation](/assets/images/quantum_annealing.gif)
