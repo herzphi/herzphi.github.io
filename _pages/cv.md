@@ -32,6 +32,7 @@ UMAP and K-means clustering
 
   
 ## Skills
+
 ### Software Development
 * Proficient in Python 3 and basic knowledge of C++ scientific computing and data analysis
 * Deep Learning Projects like Image classifiers for tumor detection
@@ -39,6 +40,7 @@ UMAP and K-means clustering
 * Familiar with common Machine-Learning techniques and workflows
 * Version control (Git), test-driven development (pytest), CI/CD (Azure DevOps)
 * SQL and No-SQL Database Management (MongoDB)
+
 ### Languages
 * German (native)
 * English (fluent)
