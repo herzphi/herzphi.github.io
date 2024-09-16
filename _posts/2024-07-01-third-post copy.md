@@ -1,5 +1,5 @@
 ---
-title: "Bayesian model comparison"
+title: "3. Bayesian model comparison"
 search: true
 categories: 
   - Open Access

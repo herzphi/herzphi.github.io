@@ -1,5 +1,5 @@
 ---
-title:  "Quantum Annealing"
+title:  "2. Quantum Annealing"
 search: true
 categories: 
   - Open Access
