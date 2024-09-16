@@ -119,7 +119,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/philipp-herz-6b0565213/"
     - label: "Google Scholar" 
-      icon: "fa-brands fa-google"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/scholar?q=author:%22Philipp+Herz%22"
 
 # Site Footer
