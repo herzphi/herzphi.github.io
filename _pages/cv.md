@@ -7,13 +7,11 @@ redirect_from:
   - /resume
 ---
 
-Education
-======
+## Education
 * M.S. in Physics, Heidelberg University, 2023
 * B.S. in Physics, Heidelberg University, 2020
 
-Work experience
-======
+## Work experience
 ### Professional at Deloitte GmbH (May 2023 - September 2024)
 
 Auditing the annual report and the participation of investment funds in corporate actions. Improved efficiency by utilizing Python.
@@ -33,8 +31,7 @@ UMAP and K-means clustering
 * CI/CD, documentation and project management in Microsoft Azure DevOps
 
   
-Skills
-======
+## Skills
 ### Software Development
 * Proficient in Python 3 and basic knowledge of C++ scientific computing and data analysis
 * Deep Learning Projects like Image classifiers for tumor detection
@@ -46,10 +43,8 @@ Skills
 * German (native)
 * English (fluent)
 
-Publications
-======
-[DOI](https://doi.org/10.1051/0004-6361/202348496).
+## Publications
+Philipp Herz, Matthias Samland, Coryn A.L. Bailer-Jones (Dec. 2023) "Distinguishing exoplanet companions from field stars in direct imaging using Gaia astrometry" In: Astronomy & Astrophysics, [DOI](https://doi.org/10.1051/0004-6361/202348496).
   
-Teaching
-======
+## Teaching
 Tutoring experience on high school mathmatics and physics.
