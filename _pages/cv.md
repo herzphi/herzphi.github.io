@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -48,7 +48,10 @@ Skills
 
 Publications
 ======
-  [DOI](https://doi.org/10.1051/0004-6361/202348496).
+  <!-- [DOI](https://doi.org/10.1051/0004-6361/202348496). -->
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Teaching
 ======
