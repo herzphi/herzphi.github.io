@@ -1,5 +1,5 @@
 ---
-title:  "1. Distinguishing exoplanet companions from field stars in direct imaging using Gaia astrometry"
+title:  "Distinguishing exoplanet companions from field stars in direct imaging using Gaia astrometry"
 search: true
 categories: 
   - Open Access
