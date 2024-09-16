@@ -116,10 +116,10 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/herzphi"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin fa-sm"
       url: "https://www.linkedin.com/in/philipp-herz-6b0565213/"
     - label: "Google Scholar" 
-      icon: "fab fa-fw fa-google-scholar"
+      icon: "fa-google-scholar"
       url: "https://scholar.google.com/scholar?q=author:%22Philipp+Herz%22"
 
 # Site Footer
