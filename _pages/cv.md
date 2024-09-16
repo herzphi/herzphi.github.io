@@ -48,11 +48,8 @@ Skills
 
 Publications
 ======
-  <!-- [DOI](https://doi.org/10.1051/0004-6361/202348496). -->
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[DOI](https://doi.org/10.1051/0004-6361/202348496).
   
 Teaching
 ======
-  Tutoring experience on high school mathmatics and physics.
+Tutoring experience on high school mathmatics and physics.
