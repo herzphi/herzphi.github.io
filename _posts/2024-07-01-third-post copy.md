@@ -4,7 +4,7 @@ search: true
 categories: 
   - Open Access
 last_modified_at: 2024-07-01T06:36:00-05:00
-permalink: /blog/
+permalink: /blog/2024-07-01-third-post copy
 use_math: true
 ---
 
