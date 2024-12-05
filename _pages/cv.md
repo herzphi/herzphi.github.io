@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 ## Education
-* M.S. in Physics, Heidelberg University, 2023
-* B.S. in Physics, Heidelberg University, 2020
+* Master of Science in Physics, Heidelberg University, 2023
+* Bachelor of Science in Physics, Heidelberg University, 2020
 
 ## Work experience
 ### Professional at Deloitte GmbH (May 2023 - September 2024)
@@ -34,12 +34,12 @@ UMAP and K-means clustering
 ## Skills
 
 ### Software Development
-* Programming Languages: Proficient in **Python 3** with a foundation in **C** for microcontroller computing
-* Neural Networks: Experience designing, training, and optimizing deep learning models for applications such as tumor detection through image classification. Skilled in leveraging convolutional neural networks (CNNs) and transfer learning techniques using **TensorFlow** and **PyTorch**.
-* Data Analysis & Scientific Computing: Proficient in data manipulation and analysis using libraries like **Pandas** and **NumPy**. Skilled in statistical analysis, visualization, and numerical methods with **Matplotlib**, **Scipy**, and **SimPy**.
-* Machine Learning: Familiar with core ML techniques such as supervised/unsupervised learning, feature engineering, hyperparameter tuning, and model evaluation. Experienced with **Scikit-learn** workflows for building predictive models.
-* Version Control & DevOps: Skilled in version control with **Git**, implementing test-driven development with **pytest**, and configuring CI/CD pipelines using **Azure DevOps**.
-* Database Management: Competent in **SQL** and **NoSQL** database management systems, including efficient querying and schema design for relational databases (SQL) and document-based databases (MongoDB).
+* **Programming Languages**: Proficient in **Python 3** with a foundation in **C** for microcontroller computing
+* **Neural Networks**: Experience designing, training, and optimizing deep learning models for applications such as tumor detection through image classification. Skilled in leveraging convolutional neural networks (CNNs) and transfer learning techniques using **TensorFlow** and **PyTorch**.
+* **Data Analysis & Scientific Computing**: Proficient in data manipulation and analysis using libraries like **Pandas** and **NumPy**. Skilled in statistical analysis, visualization, and numerical methods with **Matplotlib**, **Scipy**, and **SimPy**.
+* **Machine Learning**: Familiar with core ML techniques such as supervised/unsupervised learning, feature engineering, hyperparameter tuning, and model evaluation. Experienced with **Scikit-learn** workflows for building predictive models.
+* **Version Control & DevOps**: Skilled in version control with **Git**, implementing test-driven development with **pytest**, and configuring CI/CD pipelines using **Azure DevOps**.
+* **Database Management**: Competent in **SQL** and **NoSQL** database management systems, including efficient querying and schema design for relational databases (SQL) and document-based databases (MongoDB).
 
 ### Languages
 * German (native)
