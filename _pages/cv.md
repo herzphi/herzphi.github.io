@@ -34,12 +34,24 @@ UMAP and K-means clustering
 ## Skills
 
 ### Software Development
-* **Programming Languages**: Proficient in **Python 3** with a foundation in **C** for microcontroller computing
-* **Neural Networks**: Experience designing, training, and optimizing deep learning models for applications such as tumor detection through image classification. Skilled in leveraging convolutional neural networks (CNNs) and transfer learning techniques using **TensorFlow** and **PyTorch**.
-* **Data Analysis & Scientific Computing**: Proficient in data manipulation and analysis using libraries like **Pandas** and **NumPy**. Skilled in statistical analysis, visualization, and numerical methods with **Matplotlib**, **Scipy**, and **SimPy**.
-* **Machine Learning**: Familiar with core ML techniques such as supervised/unsupervised learning, feature engineering, hyperparameter tuning, and model evaluation. Experienced with **Scikit-learn** workflows for building predictive models.
-* **Version Control & DevOps**: Skilled in version control with **Git**, implementing test-driven development with **pytest**, and configuring CI/CD pipelines using **Azure DevOps**.
-* **Database Management**: Competent in **SQL** and **NoSQL** database management systems, including efficient querying and schema design for relational databases (SQL) and document-based databases (MongoDB).
+* **Programming Languages**: 
+
+  Proficient in _Python 3_ with a foundation in _C_ for microcontroller computing
+* **Neural Networks**: 
+
+  Experience designing, training, and optimizing deep learning models for applications such as tumor detection through image classification. Skilled in leveraging convolutional neural networks (CNNs) and transfer learning techniques using _TensorFlow_ and _PyTorch_.
+* **Data Analysis & Scientific Computing**: 
+
+  Proficient in data manipulation and analysis using libraries like _Pandas_ and _NumPy_. Skilled in statistical analysis, visualization, and numerical methods with _Matplotlib_, _Scipy_, and _SimPy_.
+* **Machine Learning**: 
+
+  Familiar with core ML techniques such as supervised/unsupervised learning, feature engineering, hyperparameter tuning, and model evaluation. Experienced with _Scikit-learn_ workflows for building predictive models.
+* **Version Control & DevOps**: 
+
+  Skilled in version control with _Git_, implementing test-driven development with _pytest_, and configuring CI/CD pipelines using _Azure DevOps_.
+* **Database Management**: 
+
+  Competent in _SQL_ and _NoSQL_ database management systems, including efficient querying and schema design for relational databases (SQL) and document-based databases (MongoDB).
 
 ### Languages
 * German (native)
