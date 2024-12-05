@@ -34,12 +34,12 @@ UMAP and K-means clustering
 ## Skills
 
 ### Software Development
-* Proficient in Python 3 and basic knowledge of C++ scientific computing and data analysis
-* Deep Learning Projects like Image classifiers for tumor detection
-* Familiar with Pandas, Numpy, Matplotlib, Scipy, Sklearn, Tensorflow and Simpy
-* Familiar with common Machine-Learning techniques and workflows
-* Version control (Git), test-driven development (pytest), CI/CD (Azure DevOps)
-* SQL and No-SQL Database Management (MongoDB)
+* Programming Languages: Proficient in **Python 3** with a foundation in **C** for microcontroller computing
+* Neural Networks: Experience designing, training, and optimizing deep learning models for applications such as tumor detection through image classification. Skilled in leveraging convolutional neural networks (CNNs) and transfer learning techniques using **TensorFlow** and **PyTorch**.
+* Data Analysis & Scientific Computing: Proficient in data manipulation and analysis using libraries like **Pandas** and **NumPy**. Skilled in statistical analysis, visualization, and numerical methods with **Matplotlib**, **Scipy**, and **SimPy**.
+* Machine Learning: Familiar with core ML techniques such as supervised/unsupervised learning, feature engineering, hyperparameter tuning, and model evaluation. Experienced with **Scikit-learn** workflows for building predictive models.
+* Version Control & DevOps: Skilled in version control with **Git**, implementing test-driven development with **pytest**, and configuring CI/CD pipelines using **Azure DevOps**.
+* Database Management: Competent in **SQL** and **NoSQL** database management systems, including efficient querying and schema design for relational databases (SQL) and document-based databases (MongoDB).
 
 ### Languages
 * German (native)
