@@ -7,6 +7,25 @@ redirect_from:
   - /resume
 ---
 
+## Skills
+
+### Software Development
+Proficient in ```Python``` with a foundation in ```C``` for microcontroller programming.
+* **Machine Learning**: 
+  - Experience designing, training, and optimizing deep learning models and regression/classification models like ```CatBoost``` or ```XGBoost```
+  - Familiar with core ML techniques such as supervised/unsupervised learning, feature engineering, hyperparameter tuning (```optuna```), and model evaluation
+  - Experienced withg ```TensorFlow```, ```PyTorch``` and ```Scikit-learn``` workflows for building predictive models
+* **Data Analysis & Scientific Computing**: 
+  - Proficient in data manipulation and analysis using libraries like ```Pandas``` and ```NumPy```
+  - Skilled in statistical analysis, visualization, and numerical methods with ```Matplotlib```, ```Scipy```, and ```SimPy```
+* **Version Control & DevOps**: 
+  - For version control I use ```Git```
+  - Implementing test-driven development with ```pytest```
+  - Configuring CI/CD pipelines using ```Azure DevOps``` and ```GitHub Actions```
+* **Database Management**: 
+  - Competent in ```SQL``` and ```NoSQL``` (mongoDB) database management systems.
+
+
 ## Education
 * Master of Science in Physics, Heidelberg University, 2023
 * Bachelor of Science in Physics, Heidelberg University, 2020
@@ -29,29 +48,6 @@ Databricks
 * Preparation of performance and health clusters of process and product variables using e.g.
 UMAP and K-means clustering
 * CI/CD, documentation and project management in Microsoft Azure DevOps
-
-  
-## Skills
-
-### Software Development
-* **Programming Languages**: 
-
-  Proficient in _Python 3_ with a foundation in _C_ for microcontroller computing
-* **Neural Networks**: 
-
-  Experience designing, training, and optimizing deep learning models for applications such as tumor detection through image classification. Skilled in leveraging convolutional neural networks (CNNs) and transfer learning techniques using _TensorFlow_ and _PyTorch_.
-* **Data Analysis & Scientific Computing**: 
-
-  Proficient in data manipulation and analysis using libraries like _Pandas_ and _NumPy_. Skilled in statistical analysis, visualization, and numerical methods with _Matplotlib_, _Scipy_, and _SimPy_.
-* **Machine Learning**: 
-
-  Familiar with core ML techniques such as supervised/unsupervised learning, feature engineering, hyperparameter tuning, and model evaluation. Experienced with _Scikit-learn_ workflows for building predictive models.
-* **Version Control & DevOps**: 
-
-  Skilled in version control with _Git_, implementing test-driven development with _pytest_, and configuring CI/CD pipelines using _Azure DevOps_.
-* **Database Management**: 
-
-  Competent in _SQL_ and _NoSQL_ database management systems, including efficient querying and schema design for relational databases (SQL) and document-based databases (MongoDB).
 
 ### Languages
 * German (native)
