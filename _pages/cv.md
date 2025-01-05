@@ -10,7 +10,7 @@ redirect_from:
 ## Skills
 
 ### Software Development
-Proficient in ```Python``` with a foundation in ```C``` for microcontroller programming.
+Proficient in `Python` with a foundation in ```C``` for microcontroller programming.
 * **Machine Learning**: 
   - Experience designing, training, and optimizing deep learning models and regression/classification models like ```CatBoost``` or ```XGBoost```
   - Familiar with core ML techniques such as supervised/unsupervised learning, feature engineering, hyperparameter tuning (```optuna```), and model evaluation
