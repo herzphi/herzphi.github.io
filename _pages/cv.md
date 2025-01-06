@@ -27,7 +27,9 @@ Proficient in `Python` with a foundation in ```C``` for microcontroller programm
 
 ## Education
 * Master of Science in Physics, Heidelberg University, 2023
+  The lectures that I attended: Quantum Field Theory, Theoretical Astrophysics, Astronomical Techniques, Cosmology, Stellar Astronomy and Astrophysics, Nonlinear Dynamics and Pattern Formation, Fundamentals of Machine Learning.
 * Bachelor of Science in Physics, Heidelberg University, 2020
+  Some of the lectures that I attended: General Relativity, Theoretical Quantum Statistics, Introduction to Computational Physics, Introduction to Astronomy and Astrophysics, Theoretical Astrophysics, Philosophy of Science.
 
 ## Work experience
 ### Professional at Deloitte GmbH (May 2023 - September 2024)
