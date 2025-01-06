@@ -5,7 +5,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+I studied Physics. I audited. I worked as a chef. I worked as a postman. I am working on Machine Learning Projects.
 ## Skills
 
 ### Machine Learning / Software Development 
