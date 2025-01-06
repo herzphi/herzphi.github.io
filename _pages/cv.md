@@ -9,20 +9,20 @@ I studied Physics. I audited. I worked as a chef. I worked as a postman. I am wo
 ## Skills
 
 ### Machine Learning / Software Development 
-Proficient in `Python` with a foundation in ```C``` for microcontroller programming.
-* **Machine Learning**: 
-  - Experience designing, training, and optimizing deep learning models and regression/classification models like ```CatBoost``` or ```XGBoost```
-  - Familiar with core ML techniques such as supervised/unsupervised learning, feature engineering, hyperparameter tuning (```optuna```), and model evaluation
-  - Experienced withg ```TensorFlow```, ```PyTorch``` and ```Scikit-learn``` workflows for building predictive models
-* **Data Analysis & Scientific Computing**: 
-  - Proficient in data manipulation and analysis using libraries like ```Pandas``` and ```NumPy```
-  - Skilled in statistical analysis, visualization, and numerical methods with ```Matplotlib```, ```Scipy```, and ```SimPy```
-* **Version Control & DevOps**: 
-  - For version control I use ```Git```
-  - Implementing test-driven development with ```pytest```
-  - Configuring CI/CD pipelines using ```Azure DevOps``` and ```GitHub Actions```
-* **Database Management**: 
-  - Competent in ```SQL``` and ```NoSQL``` (mongoDB) database management systems.
+Proficient in `Python` with a foundation in `C` for microcontroller programming.
+#### Machine Learning
+- Experience designing, training, and optimizing deep learning models and regression/classification models like `CatBoost` or `XGBoost`
+- Familiar with core ML techniques such as supervised/unsupervised learning, feature engineering, hyperparameter tuning (`optuna`), and model evaluation
+- Experienced withg `TensorFlow`, `PyTorch` and `Scikit-learn` workflows for building predictive models
+#### Data Analysis & Scientific Computing
+- Proficient in data manipulation and analysis using libraries like `Pandas` and `NumPy`
+- Skilled in statistical analysis, visualization, and numerical methods with `Matplotlib`, `Scipy`, and `SimPy`
+#### Version Control & DevOps
+- For version control I use `Git`
+- Implementing test-driven development with `pytest`
+- Configuring CI/CD pipelines using `Azure DevOps` and `GitHub Actions`
+#### Database Management
+- Competent in `SQL` and `NoSQL` (mongoDB) database management systems.
 
 
 ## Education
