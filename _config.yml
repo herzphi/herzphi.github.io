@@ -109,9 +109,6 @@ author:
   bio              : "MSc Physics"
   location         : "Munich"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:herzphilipp@outlook.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/herzphi"
@@ -121,6 +118,9 @@ author:
     - label: "Google Scholar" 
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/scholar?q=author:%22Philipp+Herz%22"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:herzphilipp@outlook.com"
 
 # Site Footer
 footer:
