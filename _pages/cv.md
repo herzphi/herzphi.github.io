@@ -8,7 +8,7 @@ redirect_from:
 
 ## Skills
 
-### Software Development
+### Machine Learning / Software Development 
 Proficient in `Python` with a foundation in ```C``` for microcontroller programming.
 * **Machine Learning**: 
   - Experience designing, training, and optimizing deep learning models and regression/classification models like ```CatBoost``` or ```XGBoost```
@@ -43,7 +43,7 @@ Auditing the annual report and the participation of investment funds in corporat
 
 ### Working student at cellcentric GmbH & Co KG (August 2020 - May 2023):
 
-Testing and Innovation department.
+Cellcentric is a fuel cell stack developer. Testing and Innovation department.
 * Functionality test for data lake streaming and an evaluation pipeline for end-of-line test data in
 Databricks
 * Created dashboards with Dash for in-situ fuel cell test stations
@@ -60,4 +60,4 @@ UMAP and K-means clustering
 Philipp Herz, Matthias Samland, Coryn A.L. Bailer-Jones (Dec. 2023) "Distinguishing exoplanet companions from field stars in direct imaging using Gaia astrometry" In: Astronomy & Astrophysics, [DOI](https://doi.org/10.1051/0004-6361/202348496).
   
 ## Teaching
-Tutoring experience on high school mathmatics and physics.
+Tutoring experience on high school mathematics and physics.
