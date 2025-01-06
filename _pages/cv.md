@@ -52,7 +52,7 @@ Databricks
 UMAP and K-means clustering
 * CI/CD, documentation and project management in Microsoft Azure DevOps
 
-### Languages
+## Languages
 * German (native)
 * English (fluent)
 
