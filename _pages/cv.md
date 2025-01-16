@@ -9,7 +9,7 @@ I studied Physics. I audited. I worked as a chef. I worked as a postman. I am wo
 ## Skills
 
 ### Machine Learning / Software Development 
-Proficient in `Python` with a foundation in `C` for microcontroller programming.
+Proficient in `Python` with a foundation in <a href="https://herzphi.github.io/blog/2025-01-06-11th-post">`C`</a> for microcontroller programming.
 
 #### Machine Learning
 - Experience designing, training, and optimizing deep learning models and regression/classification models like `CatBoost` or `XGBoost`
@@ -26,6 +26,7 @@ Proficient in `Python` with a foundation in `C` for microcontroller programming.
 - Configuring CI/CD pipelines using `Azure DevOps` and `GitHub Actions`
 
 #### Database Management
+- My web application framework of choice is <a href="https://herzphi.github.io/blog/2025-01-06-11th-post">`Flask`</a>
 - Competent in `SQL` and `NoSQL` (mongoDB) database management systems.
 
 
