@@ -12,7 +12,7 @@ I studied Physics. I audited. I worked as a chef. I worked as a postman. I am wo
 Proficient in `Python` with a foundation in <a href="https://herzphi.github.io/blog/2025-01-06-11th-post">`C`</a> for microcontroller programming.
 
 #### Machine Learning
-- Experience designing, training, and optimizing deep learning models and regression/classification models like `CatBoost` or `XGBoost`
+- Experience designing, training, and optimizing deep learning models and regression/classification models like <a href="https://herzphi.github.io/blog/2025-01-06-10th-post">`CatBoost`</a> or <a href="https://herzphi.github.io/blog/2025-01-06-10th-post">`XGBoost`</a>
 - Familiar with core ML techniques such as supervised/unsupervised learning, feature engineering, hyperparameter tuning (`optuna`), and model evaluation
 - Experienced withg `TensorFlow`, `PyTorch` and `Scikit-learn` workflows for building predictive models
 
