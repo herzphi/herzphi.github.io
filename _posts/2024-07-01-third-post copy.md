@@ -7,9 +7,6 @@ last_modified_at: 2024-07-01T06:36:00-05:00
 permalink: /blog/2024-07-01-third-post copy
 use_math: true
 ---
-
-# Bayesian model comparison
-
 With few information one can estimate how likely the outcome of a test for a disease is. Let $M$ denote that a patient has a particular disease and $M^\prime$ that he does not. And a test produces the outcome $D$, a postive or negative result.
 
 $$P(D) = P(D,M)+P(D, M')$$
@@ -36,6 +33,4 @@ which is the $\textit{posterior odds ratio}$.
 
 The following graph shows $P(M \mid D)$ as a function of $P(D \mid M^\prime)$. We can see that the test gets more reliable when the false positive rate drops. 
 
-
-
-![Missing plot](/assets/images/pmd.png)
+<img src="/assets/images/pmd.png" width="300" alt="Missing Plot">
