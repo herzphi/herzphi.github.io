@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Philipp Herz"
   avatar           : "/assets/images/88x88.png"
-  bio              : "MSc Physics"
-  location         : "Munich"
+  bio              : "Doctoral Researcher"
+  location         : "Munich/Erlangen"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -118,6 +118,9 @@ author:
     - label: "Google Scholar" 
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/scholar?q=author:%22Philipp+Herz%22"
+    - label: "EclipseLab"
+      icon: "fab fa-solid fa-microscope"
+      url: "https://www.kaggle.com/face0650"
     - label: "Kaggle"
       icon: "fab fa-fw fa-kaggle"
       url: "https://www.kaggle.com/face0650"

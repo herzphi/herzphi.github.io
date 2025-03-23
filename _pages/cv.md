@@ -5,8 +5,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-I studied Physics. I audited. I worked as a chef. I worked as a postman. I am working on Machine Learning Projects.
-## Skills
+<!-- ## Skills
 
 ### Machine Learning / Software Development 
 Proficient in `Python` with a foundation in <a href="https://herzphi.github.io/blog/2025-01-06-11th-post">`C`</a> for microcontroller programming.
@@ -27,18 +26,14 @@ Proficient in `Python` with a foundation in <a href="https://herzphi.github.io/b
 
 #### Database Management
 - My web application framework of choice is <a href="https://herzphi.github.io/blog/2025-01-06-11th-post">`Flask`</a>
-- Competent in `SQL` and `NoSQL` (mongoDB) database management systems.
+- Competent in `SQL` and `NoSQL` (mongoDB) database management systems. -->
 
+## Work Experience
+### Doctoral Researcher at [Eclipse Lab](https://pelzlab.science/) (started March 2025)
+* Develop and test new approaches for real-time 3D imaging in the electron microscope
+* Develop approaches for sample-adaptive imaging and diffraction
+* Design, optimize, and execute Computational Electron Microscopy experiments at our state-of-the-art microscopes
 
-## Education
-### Master of Science in Physics, Heidelberg University, 2023
-
-The lectures that I attended: Quantum Field Theory, Theoretical Astrophysics, Astronomical Techniques, Cosmology, Stellar Astronomy and Astrophysics, Nonlinear Dynamics and Pattern Formation, Fundamentals of Machine Learning.
-### Bachelor of Science in Physics, Heidelberg University, 2020
-
-Some of the lectures that I attended: General Relativity, Theoretical Quantum Statistics, Introduction to Computational Physics, Introduction to Astronomy and Astrophysics, Theoretical Astrophysics, Philosophy of Science.
-
-## Work experience
 ### Professional at Deloitte GmbH (May 2023 - September 2024)
 
 Auditing the annual report and the participation of investment funds in corporate actions. Improved efficiency by utilizing Python.
@@ -46,7 +41,7 @@ Auditing the annual report and the participation of investment funds in corporat
   * Optical character recognition to convert tables from PDFs into CSV format
   * Writing balance lists and annual reports into internal audit programs via data pipelines
 
-### Working student at cellcentric GmbH & Co KG (August 2020 - May 2023):
+### Working student at cellcentric GmbH & Co KG (August 2021 - May 2023):
 
 Cellcentric is a fuel cell stack developer. Testing and Innovation department.
 * Functionality test for data lake streaming and an evaluation pipeline for end-of-line test data in
@@ -56,6 +51,14 @@ Databricks
 * Preparation of performance and health clusters of process and product variables using e.g.
 UMAP and K-means clustering
 * CI/CD, documentation and project management in Microsoft Azure DevOps
+
+## Education
+### Master of Science in Physics, Heidelberg University, 2023
+
+The lectures that I attended: Quantum Field Theory, Theoretical Astrophysics, Astronomical Techniques, Cosmology, Stellar Astronomy and Astrophysics, Nonlinear Dynamics and Pattern Formation, Fundamentals of Machine Learning.
+### Bachelor of Science in Physics, Heidelberg University, 2020
+
+Some of the lectures that I attended: General Relativity, Theoretical Quantum Statistics, Introduction to Computational Physics, Introduction to Astronomy and Astrophysics, Theoretical Astrophysics, Philosophy of Science.
 
 ## Languages
 * German (native)
