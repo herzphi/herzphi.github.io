@@ -120,7 +120,7 @@ author:
       url: "https://scholar.google.com/scholar?q=author:%22Philipp+Herz%22"
     - label: "EclipseLab"
       icon: "fas fa-fw fa-microscope"
-      url: "https://www.kaggle.com/face0650"
+      url: "https://pelzlab.science/"
     - label: "Kaggle"
       icon: "fab fa-fw fa-kaggle"
       url: "https://www.kaggle.com/face0650"
