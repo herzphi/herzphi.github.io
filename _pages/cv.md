@@ -31,6 +31,10 @@ Proficient in `Python` with a foundation in <a href="https://herzphi.github.io/b
 
 ## Work Experience
 
+### Data Scientist at Invensity GmbH (started December 2025)
+
+- Data Exploration and Production Integration
+
 ### Research Assistant at [Eclipse Lab](https://pelzlab.science/) (March 2025 - September 2025)
 
 Development of PyTorch-based ML models for high-dimensional scientific data (4D-STEM), including support for multi-mode probes and advanced correction methods. Application of Bayesian optimization to improve the efficiency and accuracy of the models.

@@ -165,6 +165,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - /_posts
 keep_files:
   - .git
   - .svn
